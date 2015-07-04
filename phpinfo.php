@@ -2,6 +2,6 @@
 
 phpinfo();
 
-echo 1212;
+echo 33;
 
 ?>
